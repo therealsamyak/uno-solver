@@ -45,7 +45,7 @@ Link to your literature review in your repo.
 ## Goals, deliverables, tasks
 
 ### Concrete external deadlines (paper submissions):
-Include deadlines as well as research targets
+Include dates as well as target proposed title / abstract for expected submission
 
 ### Detailed schedule (weekly goals / deliverables / tasks):
 Link to schedule in your repo.
