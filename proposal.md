@@ -2,32 +2,31 @@
 3-5 word title
 
 ### Summary:
-One or two sentence summary of the problem and the proposed solution approach
+One or two sentence summary of the problem and your proposed solution approach
+
+### Splash images
+One or two graphics that capture and communicate the problem and proposed solution to technical but non-expert audiences.  Don't use images that aren't yours, and make sure this figure in isolation still effectively communicates your project summary above. 
 
 ### Project git repo(s):
 Link to repo(s) which will have all project-related content
-
-### Splash images
-One or two graphics that capture and communicate the problem and proposed solution to technical but non-expert audiences. 
-
 
 ## Big picture 
 
 ### What is the overall problem that this and related research is trying to solve?
 
-### Why should people care about the problem?
+### Why should people (everyone) care about the problem?
 
-### What has been done so far to solve this problem?
+### What has been done so far to address this problem?
 
 ## Specific project scope
 
-### What subset of the overall problem are you addressing in particular?
+### What subset of the overall big picture problem are you addressing in particular?
 
 ### How does solving this subproblem lead towards solving the big picture problem?
 
 ### What is your specific approach to solving this subproblem?
 
-### How will this approach result in a solution?
+### How can you be reasonably sure this approach will result in a solution?
 
 ### How will we know that this subproblem has been satisfactorily solved, using quantitative metrics?
 
@@ -39,7 +38,6 @@ One or two graphics that capture and communicate the problem and proposed soluti
 ### What is the value of this solution beyond solely solving this subproblem and getting us closer to solving the big picture problem?
 
 ## Background / related work / references
-
 Link to your literature review in your repo.
 
 ## Goals, deliverables, tasks
