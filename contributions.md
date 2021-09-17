@@ -4,7 +4,7 @@
 
 ## Contribution (What is the additional knowledge that would enable that problem to be solved?)
 
-## Results (What data will be necessary to capture and communicate that new knowledge?  What data will prove that the problem was previously unsolvable but now solvable?)
+## Results (What data will be necessary to capture and communicate that new knowledge?  What data will prove that the problem was previously unsolvable but is now solvable?)
 
 ## Experiment (What experiment will generate that specific data?)
 
