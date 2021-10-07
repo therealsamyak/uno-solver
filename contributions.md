@@ -1,13 +1,21 @@
-# Contribution 1
+# Engineering plan
 
-## Motivation (What is a problem that we'd currently like to solve, but can't with the existing science?)
+## Contribution 1
 
-## Contribution (What is the additional knowledge that would enable that problem to be solved?)
+### Motivation
+*What is a specific problem that we'd currently like to solve, but can't with the existing science?*
 
-## Results (What data will be necessary to capture and communicate that new knowledge?  What data will prove that the problem was previously unsolvable but is now solvable?)
+### Contribution
+*What is the additional knowledge that would enable that problem to be solved?*
 
-## Experiment (What experiment will generate that specific data?)
+### Results
+*What data will be necessary to capture and communicate that new knowledge?  That is, what data will demonstrate:*
+- *the problem was previously unsolvable,*
+- *the problem is now solvable, and*
+- *the solution came about through no possible reason other than your own engineering?*
 
-# Contributions 1a, 1b, 2, 2a, ...
+### Experiment
+*What experiment(s) will generate that specific data?*
 
-(same as above)
+## Contributions 1a, 1b, 2, 2a, ...
+*(same as above)*
