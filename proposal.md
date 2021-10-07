@@ -40,10 +40,10 @@ Link to repo(s) which will have all project-related content
 ## Background / related work / references
 Link to your literature review in your repo.
 
-## Goals, deliverables, tasks
+## System capabilities, validation deliverables, engineering tasks
 
 ### Concrete external deadlines (paper submissions):
 Include dates as well as target proposed title / abstract for expected submission
 
-### Detailed schedule (weekly goals / deliverables / tasks):
+### Detailed schedule (weekly capabilities / deliverables / tasks):
 Link to schedule in your repo.
